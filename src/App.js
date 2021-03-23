@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
-import Demo from "./components/4_fragment";
+import Demo from "./components/5_context";
 
 class App extends Component {
     render() {
         return (
-            <>
+            <div>
                 <Demo/>
-            </>
+            </div>
         );
     }
 }
