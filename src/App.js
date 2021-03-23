@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import Demo from "./components/7_renderProps";
+import Demo from "./components/8_errorBoundary/parent";
 
 class App extends Component {
     render() {
